@@ -12,11 +12,11 @@ redirect_from:
 <div class="cv-download-container">
     <h3>Download my CV</h3>
     
-    <a href="data/CV_english.pdf" download="YourName_CV_English.pdf" class="cv-button">
+    <a href="_data/CV_english_noaddress.pdf" download="YourName_CV_English.pdf" class="cv-button">
         <i class="fas fa-file-download"></i> English (EN)
     </a>
 
-    <a href="data/CV_german.pdf" download="YourName_CV_Deutsch.pdf" class="cv-button">
+    <a href="_data/CV_german_noaddress.pdf" download="YourName_CV_Deutsch.pdf" class="cv-button">
         <i class="fas fa-file-download"></i> Deutsch (DE)
     </a>
 </div>
