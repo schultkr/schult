@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chat Assisstant"
+title: "Chat Assistant"
 permalink: /app-page/
 author_profile: true
 ---
