@@ -1,6 +1,8 @@
 ---
-title: "Klimaschutz und Kohleausstieg: Politische Strategien und Maßnahmen bis 2030 und darüber hinaus"
+title: "Climate Protection and Coal Phase-out: Policy Strategies and Measures until 2030 and beyond"
 collection: portfolio
-type: "Drittmittelfinanziertes Projekt"
-venue: "Umweltbundesamt (UBA)"
+type: "Third-party funded project"
+venue: "German Environment Agency (UBA)"
+time_period: "2016–2019"
+project_url: "https://www.umweltbundesamt.de/publikationen/klimaschutz-kohleausstieg-politische-strategien"
 ---
