@@ -1,7 +1,7 @@
 ---
 title: "Climate Change Economics in Vietnam: Redefining Economic Impact"
 collection: publications
-category: manuscripts
+category: discussionpapers
 permalink: /publication/2025-01-01-climate-change-economics-vietnam
 date: 2025-01-01
 venue: 'IWH Discussion Paper'
