@@ -19,9 +19,3 @@ main:
   
   - title: "Chat Assisstant"
     url: /app-page/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
