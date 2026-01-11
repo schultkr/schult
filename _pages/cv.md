@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="cv-download-container">
+    <h3>Download my CV</h3>
+    
+    <a href="data/CV_english.pdf" download="YourName_CV_English.pdf" class="cv-button">
+        <i class="fas fa-file-download"></i> English (EN)
+    </a>
+
+    <a href="data/CV_german.pdf" download="YourName_CV_Deutsch.pdf" class="cv-button">
+        <i class="fas fa-file-download"></i> Deutsch (DE)
+    </a>
+</div>
+
 ## Education
 * **Ph.D. (Dr. rer. pol.) in Economics**, Martin Luther University Halle-Wittenberg, 2021
 * **M.Sc. Economics**, Humboldt University of Berlin, 2015
