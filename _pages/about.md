@@ -18,7 +18,7 @@ Research Interests
 
 Current Projects
 ======
-I am currently working on several projects involving large-scale macroeconomic forecasting and the integration of environmental factors into traditional economic models. You can find more details about my latest research in the [Publications](/publications/) section.
+I am currently working on several projects involving large-scale macroeconomic forecasting and the integration of environmental factors into traditional economic models. You can find more details about my latest research in the [Publications](/publications/) section. No time to read you can also ask questions to my [research assistant](/app-page/) 24/7.
 
 Education & Experience
 ======
