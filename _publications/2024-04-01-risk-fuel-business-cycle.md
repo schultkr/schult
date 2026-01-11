@@ -1,7 +1,7 @@
 ---
 title: "Is Risk the Fuel of the Business Cycle? Financial Frictions and Oil Market Disturbances"
 collection: publications
-category: manuscripts
+category: discussionpapers
 permalink: /publication/2024-04-01-risk-fuel-business-cycle
 date: 2024-04-01
 venue: 'IWH Discussion Paper Nr. 4/2024'
