@@ -1,7 +1,7 @@
 ---
 title: "Regional Industrial Effects in Germany from a Potential Gas Deficit"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-01-01-regional-industrial-effects
 date: 2024-01-01
 venue: 'German Economic Review'
