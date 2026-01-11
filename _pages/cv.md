@@ -10,56 +10,56 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Dr. rer. pol. (Promotion) in Volkswirtschaftslehre**, Martin-Luther-Universität Halle-Wittenberg, 2021 
-* **M.Sc. Volkswirtschaftslehre**, Humboldt-Universität zu Berlin, 2015 
-* **B.Sc. Volkswirtschaftslehre**, Martin-Luther-Universität Halle-Wittenberg, 2013 
+* **Ph.D. (Dr. rer. pol.) in Economics**, Martin Luther University Halle-Wittenberg, 2021
+* **M.Sc. Economics**, Humboldt University of Berlin, 2015
+* **B.Sc. Economics**, Martin Luther University Halle-Wittenberg, 2013
 
-## Work experience
-* **Postdoktorand**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), 2021–heute 
-* **Doktorand**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), 2016–2021 
-* **Wissenschaftliche Hilfskraft**, Lehrstuhl für Statistik, Humboldt-Universität zu Berlin, International Research Training Group 1792, 2016 [cite: 34, 35]
-* **Praktikum**, apo Asset, Düsseldorf, 2015–2016 
-* **Studentische Hilfskraft**, Lehrstuhl für Statistik, Humboldt-Universität zu Berlin, 2013–2015 
+## Work Experience
+* **Postdoctoral Researcher**, Halle Institute for Economic Research (IWH), 2021–Present
+* **Doctoral Researcher**, Halle Institute for Economic Research (IWH), 2016–2021
+* **Research Assistant**, Chair of Statistics, Humboldt University of Berlin, International Research Training Group 1792, 2016
+* **Intern**, apo Asset, Düsseldorf, 2015–2016
+* **Student Assistant**, Chair of Statistics, Humboldt University of Berlin, 2013–2015
 
-## Third-party funded projects
-* **Macroeconomic Modelling for Energy Investments in Vietnam**, für die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), 2024–present 
-* **Evaluation des InvKG und des Bundesprogramms STARK**, gefördert durch das Bundesministerium für Wirtschaft und Klimaschutz, 2022–heute 
-* **Energy Transitions from Coal and Carbon: Effects on Societies**, gefördert durch das Forschungs- und Innovationsprogramm Horizon 2020 der Europäischen Union, 2020–2023 
-* **Policy Advice for Climate-Resilient Economic Development (CRED) in Vietnam**, für die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), 2019–2022 
-* **Klimaschutz und Kohleausstieg: Politische Strategien und Maßnahmen bis 2030 und darüber hinaus**, für das Umweltbundesamt (UBA), 2016–2019 
+## Third-Party Funded Projects
+* **Macroeconomic Modelling for Energy Investments in Vietnam**, for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), 2024–Present
+* **Evaluation of the InvKG and the Federal Program "STARK"**, funded by the Federal Ministry for Economic Affairs and Climate Action (BMWK), 2022–Present
+* **Energy Transitions from Coal and Carbon: Effects on Societies (ENTRANCES)**, funded by the European Union’s Horizon 2020 Research and Innovation Programme, 2020–2023
+* **Policy Advice for Climate-Resilient Economic Development (CRED) in Vietnam**, for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), 2019–2022
+* **Climate Protection and Coal Phase-out: Political Strategies and Measures until 2030 and Beyond**, for the German Environment Agency (UBA), 2016–2019
 
 ## Skills
-* **Programmiersprachen (fortgeschritten)**: MATLAB, R, Python 
-* **Programmiersprachen (grundlegend)**: Stata, SQL, VBA 
-* **Forschungsinteressen**: Dynamische Makroökonomik, Umweltmakroökonomik, Energiemärkte, Prognose 
+* **Programming Languages (Advanced)**: MATLAB, R, Python
+* **Programming Languages (Basic)**: Stata, SQL, VBA
+* **Research Interests**: Dynamic Macroeconomics, Environmental Macroeconomics, Energy Markets, Forecasting
 
 ## Publications
 ### Journals
-* **Regional Industrial Effects in Germany from a Potential Gas Deficit** (zusammen mit Robert Lehmann), *German Economic Review*, 2024 
-* **Transparency and Forecasting: The Impact of Conditioning Assumptions on Forecast Accuracy** (zusammen mit Katja Heinisch und Carola Stepper), *Applied Economic Letters*, 2024 
-* **The effects of the Iberian exception mechanism on wholesale electricity prices and consumer inflation: a synthetic-controls approach** (zusammen mit Miguel Haro Ruiz und Christoph Wunder), *Applied Economics Letters*, 2024 
-* **Power Generation and Structural Change: Quantifying Economic Effects of the Coal Phase-Out in Germany** (zusammen mit Katja Heinisch und Oliver Holtemöller), *Energy Economics* 95, 2021 
-* **Coal Phase-Out in Germany - Implications and Policies for Affected Regions** (zusammen mit Pao-Yu Oei et al.), *Energy - The International Journal* 196, 2020 
-* **Expectation Formation, Financial Frictions, and Forecasting Performance of DSGE Models** (zusammen mit Oliver Holtemöller), *Historical Social Research* 44(2), 2019 
-* **Zu den rentenpolitischen Plänen im Koalitionsvertrag 2018...** (zusammen mit Oliver Holtemöller und Götz Zeddies), *Zeitschrift für Wirtschaftspolitik* 67(3), 2018 
+* **Regional Industrial Effects in Germany from a Potential Gas Deficit** (with Robert Lehmann), *German Economic Review*, 2024
+* **Transparency and Forecasting: The Impact of Conditioning Assumptions on Forecast Accuracy** (with Katja Heinisch and Carola Stepper), *Applied Economics Letters*, 2024
+* **The effects of the Iberian exception mechanism on wholesale electricity prices and consumer inflation: a synthetic-controls approach** (with Miguel Haro Ruiz and Christoph Wunder), *Applied Economics Letters*, 2024
+* **Power Generation and Structural Change: Quantifying Economic Effects of the Coal Phase-Out in Germany** (with Katja Heinisch and Oliver Holtemöller), *Energy Economics* 95, 2021
+* **Coal Phase-Out in Germany - Implications and Policies for Affected Regions** (with Pao-Yu Oei et al.), *Energy - The International Journal* 196, 2020
+* **Expectation Formation, Financial Frictions, and Forecasting Performance of DSGE Models** (with Oliver Holtemöller), *Historical Social Research* 44(2), 2019
+* **On the pension policy plans in the 2018 coalition agreement...** (with Oliver Holtemöller and Götz Zeddies), *Zeitschrift für Wirtschaftspolitik* 67(3), 2018
 
 ### Discussion Papers
-* **Climate Change Economics in Vietnam: Redefining Economic Impact**, IWH Discussion Paper Nr. 15/2025 
-* **Assumption Errors and Forecast Accuracy: A Partial Linear Instrumental Variable and Double Machine Learning Approach**, IWH Discussion Paper Nr. 6/2025 
-* **The German Energy Crisis: A TENK-based Fiscal Policy Analysis**, IWH Discussion Paper Nr. 1/2025 [cite: 62]
-* **Is Risk the Fuel of the Business Cycle? Financial Frictions and Oil Market Disturbances**, IWH Discussion Paper Nr. 4/2024 
+* **Climate Change Economics in Vietnam: Redefining Economic Impact**, IWH Discussion Paper No. 15/2025
+* **Assumption Errors and Forecast Accuracy: A Partial Linear Instrumental Variable and Double Machine Learning Approach**, IWH Discussion Paper No. 6/2025
+* **The German Energy Crisis: A TENK-based Fiscal Policy Analysis**, IWH Discussion Paper No. 1/2025
+* **Is Risk the Fuel of the Business Cycle? Financial Frictions and Oil Market Disturbances**, IWH Discussion Paper No. 4/2024
 
 ## Talks (Selection)
-* **Developments in Macroeconomics and Macrofinance Workshop**, Leipzig, 2025 
-* **26th IWH-CIREQ-GW-BOKERI Macroeconometric Workshop**, Halle, 2025 
-* **Jahrestagung des VFS**, Köln, 2025 
-* **Asia Meeting of the Econometric Society**, Ho-Chi-Minh-Stadt, Vietnam, 2024 
-* **North American Summer Meeting of the Econometric Society**, Nashville, TN, 2024 
+* **Developments in Macroeconomics and Macrofinance Workshop**, Leipzig, 2025
+* **26th IWH-CIREQ-GW-BOKERI Macroeconometric Workshop**, Halle, 2025
+* **Annual Conference of the Verein für Socialpolitik (VfS)**, Cologne, 2025
+* **Asia Meeting of the Econometric Society**, Ho Chi Minh City, Vietnam, 2024
+* **North American Summer Meeting of the Econometric Society**, Nashville, TN, 2024
 
 ## Teaching
-* **Lehrvertretung für die Lehrveranstaltung "Makroökonomik"**, Universität Leipzig, Wintersemester 2025/2026 
-* **Einführung in Octave/Matlab für die Makroökonomik**, Zentrales Deutsches Doktorandenprogramm in den Wirtschaftswissenschaften, 2024 
-* **Statistische Programmiersprachen**, Lehrstuhl für Statistik, Humboldt-Universität zu Berlin, 2016 
+* **Substitute Lecturer for "Macroeconomics"**, Leipzig University, Winter Semester 2025/2026
+* **Introduction to Octave/Matlab for Macroeconomics**, Central German Doctoral Program Economics (CGDE), 2024
+* **Statistical Programming Languages**, Chair of Statistics, Humboldt University of Berlin, 2016
 
-## Service and leadership
-* **Gutachter für die Zeitschrift "Energy Economics"**, 2019–2025 
+## Service and Leadership
+* **Reviewer for "Energy Economics"**, 2019–2025
