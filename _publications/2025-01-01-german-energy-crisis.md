@@ -1,7 +1,7 @@
 ---
 title: "The German Energy Crisis: A TENK-based Fiscal Policy Analysis"
 collection: publications
-category: manuscripts
+category: discussionpapers
 permalink: /publication/2025-01-01-german-energy-crisis
 date: 2025-01-01
 venue: 'IWH Discussion Paper Nr. 1/2025'
