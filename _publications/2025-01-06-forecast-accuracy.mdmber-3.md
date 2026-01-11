@@ -1,7 +1,7 @@
 ---
 title: "Assumption Errors and Forecast Accuracy: A Partial Linear Instrumental Variable and Double Machine Learning Approach"
 collection: publications
-category: manuscripts
+category: discussionpapers
 permalink: /publication/2025-01-06-forecast-accuracy
 date: 2025-01-06
 venue: 'IWH Discussion Paper Nr. 6/2025'
