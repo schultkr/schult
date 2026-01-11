@@ -27,4 +27,4 @@ Education & Experience
 
 Contact
 ======
-The best way to reach me is via email at [Christoph.Schult@iwh-halle.de](mailto:Christoph.Schult@iwh-halle.de). You can also find me on <a href="https://scholar.google.com/citations?user=9tm-bzQAAAAJ&hl=en">my Google Scholar profile</a>.</div> or visit my office at the IWH in Halle (Saale), Germany.
+The best way to reach me is via email at [Christoph.Schult@iwh-halle.de](mailto:Christoph.Schult@iwh-halle.de). You can also find me on <a href="https://scholar.google.com/citations?user=9tm-bzQAAAAJ&hl=en">my Google Scholar profile</a>. or visit my office at the IWH in Halle (Saale), Germany.
