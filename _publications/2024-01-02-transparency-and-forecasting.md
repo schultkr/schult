@@ -1,7 +1,7 @@
 ---
 title: "Transparency and Forecasting: The Impact of Conditioning Assumptions on Forecast Accuracy"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-01-02-transparency-and-forecasting
 date: 2024-01-01
 venue: 'Applied Economic Letters'
