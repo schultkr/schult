@@ -1,7 +1,7 @@
 ---
 title: "Expectation Formation, Financial Frictions, and Forecasting Performance of Dynamic Stochastic General Equilibrium Models"
-collection: manuscripts
-category: journals
+collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-expectation-formation-dsge
 date: 2019-01-01
 venue: 'Historical Social Research'
