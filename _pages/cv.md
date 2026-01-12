@@ -129,4 +129,19 @@ Website: <https://schultkr.github.io/>
 
 ---
 
+## Policy Reports & Advisory Work (Selected)
+
+* **Accompanying Evaluation of the Investment Act for Coal Regions (InvKG) and the STARK Federal Program**  
+  *Expert testimony for the German Bundestag; commissioned by the Federal Ministry for Economic Affairs and Climate Action (BMWK), 2019–2025*
+
+* **Contributor, Joint Economic Forecast (Gemeinschaftsdiagnose)**, 2022–2024
+
+* **Macroeconomic Modeling for Climate Adaptation in Emerging Economies**  
+  *(Kazakhstan, Georgia, Vietnam)*, IWH Studies No. 2, 2023
+
+* **Growth Effects of Infrastructure and Climate Funds in Mecklenburg-Vorpommern**  
+  *Expert testimony for the State Parliament*, IWH Policy Notes No. 3, 2025
+  
+---
+
 *Last updated: January 2026*
