@@ -4,8 +4,7 @@ permalink: /ongoing-research/
 layout: single
 ---
 
-## Ongoing Research
-### Artificial Intelligence and Macroeconomic Dynamics: Growth, Pricing, and Distribution  
+## Artificial Intelligence and Macroeconomic Dynamics: Growth, Pricing, and Distribution  
 **Authors:** Helen Popper (Santa Clara University), Christoph Schult (Halle Institute for Economic Research)  
 **Status:** Draft (January 2026)
 
@@ -18,7 +17,7 @@ Extending the model to CES technologies, the paper derives a closed-form effecti
 
 ---
 
-### Transition Dynamics in Heterogeneous Agent Models and the Distributional Consequences of Taxation  
+## Transition Dynamics in Heterogeneous Agent Models and the Distributional Consequences of Taxation  
 **Authors:** Alexandra Gutsch (Martin Luther University Halle-Wittenberg & Halle Institute for Economic Research), Christoph Schult (Halle Institute for Economic Research)  
 **Status:** Work in progress
 
@@ -32,7 +31,7 @@ The results indicate that contractions in economic activity following tax hikes 
 
 ---
 
-### Growth Clubs and Regional Economic Convergence in Germany  
+## Growth Clubs and Regional Economic Convergence in Germany  
 **Authors:** Oliver Holtemöller (MLU Halle-Wittenberg & IWH), Christoph Schult (IWH), Anna Solms (IWH, corresponding author)  
 **Status:** Work in progress
 
