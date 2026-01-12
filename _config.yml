@@ -24,7 +24,7 @@ repository               : "https://schultkr.github.io/schultkr"
 author:
   # Biographic information
   avatar           : "Christoph_Schult.jpg" # Ensure you have an image with this name in your /images folder
-  name             : "Christoph Schult"
+  #name             : "Christoph Schult"
   bio              : "Postdoctoral researcher focusing on macroeconomics, forecasting, energy markets, and climate change."
   location         : "Halle (Saale), Germany"
   employer         : "Halle Institute for Economic Research"
