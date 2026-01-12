@@ -1,5 +1,5 @@
 ---
-title: "Interim Professorship for the 'Macroeconomics' course"
+title: "Interim Professorship for the undergraduate course in Macroeconomics"
 collection: teaching
 type: "Interim Professorship"
 permalink: /teaching/2025-macro-leipzig
