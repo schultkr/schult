@@ -54,6 +54,8 @@ publication_category:
     title: 'Journal Articles'    
   discussionpapers:
     title: 'Discussion Papers'
+  policynotes:
+    title: 'Policy Reports'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
