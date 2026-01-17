@@ -274,7 +274,7 @@ defaults:
       permalink: /de/publications/:basename/
   # German Projects
   - scope:
-      path: "_projects/de"
+      path: "_portfolio/de"
     values:
       layout: single
       lang: "de"
