@@ -352,3 +352,12 @@ zh-TW:
 
 # Another locale
 # --------------
+
+# Your custom profile translations
+en:
+  author_bio: "Postdoctoral researcher focusing on macroeconomics, forecasting, energy markets, and climate change."
+  author_location: "Halle (Saale), Germany"
+  author_institution: "Halle Institute for Economic Research"
+de:
+  author_bio: "Postdoktorand mit den Schwerpunkten Makroökonomie, Prognosewesen, Energiemärkte und Klimawandel."
+  author_location: "Halle (Saale), Deutschland"
