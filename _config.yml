@@ -258,7 +258,7 @@ defaults:
       permalink: /de/teaching/:basename/      
   # _publications
   - scope:
-      path: ""
+      path: "_publications/"
       type: publications
     values:
       layout: single
@@ -272,7 +272,24 @@ defaults:
       layout: single
       lang: "de"
       permalink: /de/publications/:basename/
+# 1. Deutsche Projekte (Spezifischer Pfad zuerst)
+  - scope:
+      path: "_portfolio/de"
+    values:
+      layout: single
+      author_profile: true
+      lang: "de"
+      permalink: /de/projects/:basename/
 
+  # 2. Englische Projekte
+  # WICHTIG: Wir lassen das "path" leer oder setzen es auf den Hauptordner, 
+  # aber Jekyll wendet den spezifischeren Pfad von oben (de) vorrangig an.
+  - scope:
+      path: "_portfolio"
+    values:
+      layout: single
+      author_profile: true
+      lang: "en"
 
 # Sass/SCSS
 sass:
