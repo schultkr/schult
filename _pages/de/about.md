@@ -13,7 +13,7 @@ Forschungsschwerpunkte
 ======
 * **Makroökonomik:** Konjunkturanalyse und geldpolitische Transmission.
 * **Energieökonomik:** Preisvolatilität und strukturelle Veränderungen in globalen Energiemärkten.
-* **Prognoserechnung:** Robuste Modelle für makroökonomische Variablen und Energieindikatoren.
+* **Simulationen:** Robuste Modelle für makroökonomische Variablen und Energieindikatoren.
 * **Klimawandel:** Auswirkungen von Umweltpolitik auf die wirtschaftliche Leistungsfähigkeit.
 
 Aktuelle Projekte
