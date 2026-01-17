@@ -8,7 +8,7 @@ date: 2022-10-01
 location: "Halle (Saale), Germany"
 ---
 
-This technical practical training was conducted as part of the GIZ project "Climate-Resilient Economic Development in Vietnam". The workshop taught advanced methods for integrating climate risks into Dynamic Stochastic General Equilibrium (DGE) models. 
+This technical practical training was conducted as part of the GIZ project "Climate-Resilient Economic Development in Vietnam". The workshop taught advanced methods for integrating climate risks into Dynamic General Equilibrium (DGE) models. 
 
 Key focus areas included:
 * **Shock Modeling:** Practical implementation of storm events, land loss, and labor productivity losses.
