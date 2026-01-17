@@ -273,6 +273,17 @@ defaults:
       lang: "de"
       permalink: /de/publications/:basename/
 
+  # _projects (German - New)
+  - scope:
+      path: "_portfolio"
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      lang: "de"
+      # This ensures the URL starts with /de/ even though it's a collection
+      permalink: /portfolio/:basename/      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
