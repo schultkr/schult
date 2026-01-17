@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /de/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -17,93 +17,87 @@ redirect_from:
     </a>
 </div>
 
-## Research Profile
-**Postdoctoral Researcher in Macroeconomics and Energy Economics**  
-*(DSGE, Forecasting, Climate Policy Evaluation)*  
-
-Halle Institute for Economic Research (IWH), Halle, Germany  
-Email: schult.christoph@googlemail.com  
-Website: <https://schultkr.github.io/>
+## Forschungsprofil
+**Postdoctoral Researcher für Makroökonomik und Energieökonomik** *(DSGE, Prognoserechnung, Evaluierung von Klimapolitik)* Leibniz-Institut für Wirtschaftsforschung Halle (IWH)  
+E-Mail: schult.christoph@googlemail.com  
+Webseite: <https://schultkr.github.io/>
 
 ---
 
-## Current Position
-* **Postdoctoral Researcher**, Halle Institute for Economic Research (IWH), 2021–present
+## Aktuelle Position
+* **Postdoctoral Researcher**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), seit 2021
 
-## Academic Positions
-* **Postdoctoral Researcher**, Halle Institute for Economic Research (IWH), 2021–present  
-* **PhD Candidate**, Halle Institute for Economic Research (IWH), 2016–2021  
-
----
-
-## Research Interests
-* Macroeconomics (DSGE models, expectation formation, financial frictions)
-* Energy and environmental economics (energy transition, coal phase-out, climate policy evaluation)
-* Forecasting, forecast evaluation, and uncertainty
-* Regional and applied macroeconomics
+## Akademischer Werdegang
+* **Postdoctoral Researcher**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), seit 2021  
+* **Doktorand / Wissenschaftlicher Mitarbeiter**, Leibniz-Institut für Wirtschaftsforschung Halle (IWH), 2016–2021  
 
 ---
 
-## Methods & Skills
-* **Methods:** DSGE modelling; structural and applied macroeconometrics; forecast evaluation; synthetic control methods; policy evaluation  
-* **Econometric tools:** panel data, IV, synthetic control, machine-learning-based causal inference  
-* **Programming:** MATLAB, R, Python (advanced); Stata, SQL, VBA (basic)
+## Forschungsschwerpunkte
+* Makroökonomik (DSGE-Modelle, Erwartungsbildung, finanzielle Friktionen)
+* Energie- und Umweltökonomik (Energiewende, Kohleausstieg, Evaluierung von Klimapolitik)
+* Prognoserechnung, Prognoseevaluierung und Unsicherheit
+* Regionale und angewandte Makroökonomik
 
 ---
 
-## Education
-* **Dr. rer. pol. (PhD) in Economics**, Martin Luther University Halle-Wittenberg, 2021  
+## Methoden & Kenntnisse
+* **Methoden:** DSGE-Modellierung; strukturelle und angewandte Makroökonometrie; Prognoseevaluierung; Synthetic Control Methods; Politik-Evaluierung  
+* **Ökonometrische Werkzeuge:** Paneldaten, IV, Synthetic Control, Machine-Learning-basierte kausale Inferenz  
+* **Programmierung:** MATLAB, R, Python (fortgeschritten); Stata, SQL, VBA (Grundkenntnisse)
+
+---
+
+## Ausbildung
+* **Dr. rer. pol. in Wirtschaftswissenschaften**, Martin-Luther-Universität Halle-Wittenberg, 2021  
   *Dissertation:* *Expectation Formation, Energy Transitions, and Macroeconomic Dynamics*
-* **M.Sc. in Economics**, Humboldt University of Berlin, 2015  
-* **B.Sc. in Economics**, Martin Luther University Halle-Wittenberg, 2013  
+* **M.Sc. in Economics (Volkswirtschaftslehre)**, Humboldt-Universität zu Berlin, 2015  
+* **B.Sc. in Wirtschaftswissenschaften**, Martin-Luther-Universität Halle-Wittenberg, 2013  
 
 ---
 
-## Third-Party Funded Research Projects
-* **Macroeconomic modelling of energy investments in Vietnam** (GIZ), 2024–present  
-* **Evaluation of the Investment Act for Coal Regions (InvKG) and the STARK programme** (BMWE), 2022–present  
-* **Energy transitions and socio-economic impacts** (EU Horizon 2020), 2020–2023  
-* **Climate-resilient economic development in Vietnam** (GIZ), 2019–2022  
-* **Coal phase-out and climate policy strategies** (UBA), 2016–2019  
+## Drittmittelforschung & Projekte
+* **Makroökonomische Modellierung von Energieinvestitionen in Vietnam** (GIZ), seit 2024  
+* **Evaluierung des Investitionsgesetzes Kohleregionen (InvKG) und des STARK-Programms** (BMWE), seit 2022  
+* **Energiewende und sozioökonomische Auswirkungen** (EU Horizon 2020), 2020–2023  
+* **Klimaresiliente Wirtschaftsentwicklung in Vietnam** (GIZ), 2019–2022  
+* **Kohleausstieg und klimapolitische Strategien** (UBA), 2016–2019  
 
 ---
 
-## Talks & Conferences (Selection)
+## Vorträge & Konferenzen (Auswahl)
 * 26th IWH-CIREQ-GW-BOKERI Macroeconometric Workshop, Halle, 2025  
-* VfS Annual Conference, Cologne, 2025  
+* VfS Jahrestagung (Verein für Socialpolitik), Köln, 2025  
 * International Association for Applied Econometrics, Turin, 2025  
-* Asia Meeting of the Econometric Society, Ho Chi Minh City, 2024  
+* Asia Meeting of the Econometric Society, Ho-Chi-Minh-Stadt, 2024  
 * North American Summer Meeting of the Econometric Society, Nashville, TN, 2024  
 
 ---
 
-## Teaching
-* **Interim Professorship**, *Macroeconomics* (BA level), Leipzig University, Winter Term 2025/2026  
-* **Introduction to Octave/Matlab for Macroeconomics**, Central German Doctoral Program in Economics, 2024  
-* **Statistical Programming Languages**, Humboldt University of Berlin, 2016  
+## Lehre
+* **Vertretungsprofessur**, *Makroökonomik* (Bachelor), Universität Leipzig, Wintersemester 2025/2026  
+* **Einführung in Octave/Matlab für Makroökonomik**, Central German Doctoral Program in Economics (CGDE), 2024  
+* **Statistische Programmiersprachen**, Humboldt-Universität zu Berlin, 2016  
 
 ---
 
-## Service to the Profession
+## Gutachtertätigkeit
 * **Referee**, *Energy Economics*, 2019–2025  
 * **Referee**, *The Electricity Journal*, 2024  
 * **Referee**, *Economics of Transition and Institutional Change*, 2020  
 
 ---
 
-## Policy Reports & Advisory Work (Selected)
+## Politikberatung & Berichte (Auswahl)
 
-* **Accompanying Evaluation of the Investment Act for Coal Regions (InvKG) and the STARK Federal Program**  
-  *Expert testimony for the German Bundestag; commissioned by the Federal Ministry for Economic Affairs and Climate Action (BMWK), 2019–2025*
+* **Begleitende Evaluierung des Investitionsgesetzes Kohleregionen (InvKG) und des Bundesprogramms STARK** *Sachverständigengutachten für den Deutschen Bundestag; im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK), 2019–2025*
 
-* **Contributor, Joint Economic Forecast (Gemeinschaftsdiagnose)**, 2022–2024
+* **Mitwirkung an der Gemeinschaftsdiagnose**, 2022–2024
 
-* **Macroeconomic Modeling for Climate Adaptation in Emerging Economies**  
-  *(Kazakhstan, Georgia, Vietnam)*, IWH Studies No. 2, 2023
+* **Macroeconomic Modeling for Climate Adaptation in Emerging Economies** *(Kasachstan, Georgien, Vietnam)*, IWH-Studien Nr. 2, 2023
 
-* **Growth Effects of Infrastructure and Climate Funds in Mecklenburg-Vorpommern**  
-  *Expert testimony for the State Parliament*, IWH Policy Notes No. 3, 2025
+* **Wachstumseffekte von Infrastruktur- und Klimafonds in Mecklenburg-Vorpommern** *Sachverständigengutachten für den Landtag*, IWH Policy Notes Nr. 3, 2025
   
 ---
 
-*Last updated: January 2026*
+*Zuletzt aktualisiert: Januar 2026*
