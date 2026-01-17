@@ -58,6 +58,17 @@ publication_category:
   policynotes:
     title: 'Policy Reports'    
 
+# Deutsche Kategorien
+publication_category_de:
+  books:
+    title: 'Bücher'
+  manuscripts:
+    title: 'Fachzeitschriften'    
+  discussionpapers:
+    title: 'Diskussionspapiere'
+  policynotes:
+    title: 'Politikberatung'    
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)

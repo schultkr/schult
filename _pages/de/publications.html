@@ -11,26 +11,35 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
+{% comment %} 
+  Wir prüfen, ob die deutsche Kategorien-Liste existiert, 
+  andernfalls fallen wir auf die englische zurück.
+{% endcomment %}
+
+{% assign categories = site.publication_category_de | default: site.publication_category %}
+
+{% if categories %}
+  {% for category in categories %}
+    {% assign category_key = category[0] %}
+    {% assign category_title = category[1].title %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
+
+    {% comment %} 
+      Filtere die Publikationen: Nur Sprache "de" und passende Kategorie
+    {% endcomment %}
+    {% assign filtered_pubs = site.publications | where: "lang", "de" | where: "category", category_key %}
+
+    {% for post in filtered_pubs reversed %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category_title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% assign all_german_pubs = site.publications | where: "lang", "de" %}
+  {% for post in all_german_pubs reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
