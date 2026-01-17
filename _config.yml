@@ -274,7 +274,7 @@ defaults:
       permalink: /de/publications/:basename/  
   # _portfolio (English - General)
   - scope:
-      path: "_portfolio"
+      path: "_portfolio/en"
     values:
       layout: single
       author_profile: true
