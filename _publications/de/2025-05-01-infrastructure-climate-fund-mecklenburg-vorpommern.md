@@ -1,5 +1,5 @@
 ---
-title: "Impact of the Infrastructure and Climate Neutrality Special Fund on Growth Potential in Mecklenburg-Vorpommern"
+title: "Wirkung der Verwendung der Mittel des Sondervermögens Infrastruktur und Klimaneutralität sowie der zusätzlichen Bundesmittel für Verteidigung, Zivil- und Bevölkerungsschutz auf das Potenzialwachstum in Mecklenburg-Vorpommern: Schriftliche Anhörung des Finanzausschusses des Landtags Mecklenburg-Vorpommern"
 collection: publications
 category: policynotes
 permalink: /publication/2025-05-01-infrastructure-climate-fund-mecklenburg-vorpommern
