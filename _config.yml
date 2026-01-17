@@ -272,13 +272,23 @@ defaults:
       layout: single
       lang: "de"
       permalink: /de/publications/:basename/
-  # German Projects
+# Englische Projekte (Standard im Hauptordner _portfolio)
   - scope:
-      path: "_projects/de"
+      path: "_portfolio"
     values:
       layout: single
+      author_profile: true
+      lang: "en"
+
+  # Deutsche Projekte (im Unterordner _portfolio/de)
+  - scope:
+      path: "_portfolio/de"
+    values:
+      layout: single
+      author_profile: true
       lang: "de"
-      permalink: /de/projects/:basename/      
+      permalink: /de/projects/:basename/ # Ändert URL zu /de/projects/name
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
