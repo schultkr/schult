@@ -243,7 +243,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+# German Pages and Collections
+  - scope:
+      path: "de" # This targets everything inside your /de/ folder
+    values:
+      layout: single
+      author_profile: true
+      lang: "de"
+      share: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
